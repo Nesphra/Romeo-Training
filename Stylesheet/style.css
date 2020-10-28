@@ -2,6 +2,7 @@ body {
     background-color: #333;
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
         background-image: url("../images/beautifulsunsetmountain-1603888918758-4149.jpg"); animation: ease-in;
         width: 100%;
         height: 1000px;
