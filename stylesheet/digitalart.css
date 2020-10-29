@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: #333;
+    background-image: url(/images/alps-3840x2160-4k-hd-wallpaper-peaks-clouds-5743.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: -120px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8px;
+    background-color: #5d4954;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    color: rgb(216, 216, 216);
+    text-transform: uppercase; 
+    letter-spacing: 5px;
+    font-size: 12px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 35%;
+}
+
+.nav-links li{
+    list-style: none;
+}
+.nav-links a{
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 10px;
+}
