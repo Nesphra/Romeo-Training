@@ -3,12 +3,12 @@ body {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-        background-image: url("/images/255944.jpg"); animation: FadeIn;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        background-position-y: -130px;
+    background-image: url("../images/255944.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-position-y: -130px;
 }
 
 /* #text{
@@ -67,7 +67,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 8px;
+    min-height: 8vh;
     background-color: #5d4954;
     font-family: 'Poppins', sans-serif;
 }
@@ -108,3 +108,4 @@ nav{
     margin: 5px;
     border-radius: 15%;
 }
+
