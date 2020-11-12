@@ -98,7 +98,7 @@ nav{
 #twb {
     display: flex;
     position: relative;
-    left: 120px;
+    left: 160px;
 }
 
 .hero{
@@ -180,7 +180,7 @@ body {
   }
 }
 
-h6{
+h5{
     font-family: 'roboto slab', sans-serif;
     font-size: 60%;
     position: relative;
